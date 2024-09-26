@@ -9,9 +9,10 @@ Additionally, this project serves as a guide for working with key Python librari
 1. First, you'll need to install Kafka and Hadoop on your system (Windows OS in this case).
    You can refer to the following links for detailed installation guides:
    Kafka installation tutorial --> https://www.youtube.com/watch?v=w6A-uDEb7JY&t=120s
+   
    Hadoop installation tutorial --> https://www.youtube.com/watch?v=knAS0w-jiUk&t=943s
 
-2. Set up Your Development Environment
+3. Set up Your Development Environment
 
 Once the installation is complete, use Visual Studio Code (VSCode) as your Integrated Development Environment (IDE).
 Create a new virtual environment to isolate your project dependencies. 
