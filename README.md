@@ -12,16 +12,16 @@ Additionally, this project serves as a guide for working with key Python librari
    
    Hadoop installation tutorial --> https://www.youtube.com/watch?v=knAS0w-jiUk&t=943s
 
-3. Set up Your Development Environment
+2. Set up Your Development Environment
 
-Once the installation is complete, use Visual Studio Code (VSCode) as your Integrated Development Environment (IDE).
-Create a new virtual environment to isolate your project dependencies. 
+  Once the installation is complete, use Visual Studio Code (VSCode) as your Integrated Development Environment (IDE).
+  Create a new virtual environment to isolate your project dependencies. 
 
 3- Install Required Libraries
    pip install kafka   # kafka-1.3.5
    pip install hdfs    # hdfs-2.7.3
- Note: you should provide proper python version to be compatible with libraries.
- here im using python version 3.11.7
+   Note: you should provide proper python version to be compatible with libraries.
+   here im using python version 3.11.7
 
  4- before running the code you should provide kafka and hadoop enviroment to make data transportation.
 
